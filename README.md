@@ -8,9 +8,9 @@ User-Friendly Interface: News is presented in a user-friendly interface that can
 Lightweight and Scalable: The project has a lightweight and scalable design and can be easily scaled up as traffic increases.
 **Usage:**
 
-#Deploying
+# Deploying
 Clone the project:
 **Bash**
-``git clone github.com/abdullahBecet/newsSiteWitGolang```
+```git clone github.com/abdullahBecet/newsSiteWitGolang```
 
 <img width="951" alt="Ekran Alıntısı" src="https://github.com/abdullahBecet/newsSiteWitGolang/assets/109188041/8b84aca2-ce16-4e6d-918c-8651db98c549">
